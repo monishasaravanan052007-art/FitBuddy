@@ -1,30 +1,16 @@
-# 💪 FitBuddy - AI Fitness Plan Generator
-
-FitBuddy is an AI-powered fitness companion built with Google Gemini. It generates personalized workout plans, diet charts, and gives fitness advice based on your body goals.
-
-### 🔥 Features
-- **Personalized Workout Plan:** Weight loss, weight gain, muscle gain ku thani plan
-- **AI Diet Chart:** Veg / Non-Veg diet plan with calories count
-- **BMI Calculator & Tracker**
-- **24/7 AI Fitness Coach:** Gemini powered chat
-
-### 🛠️ Tech Stack
-- **AI:** Google Gemini 1.5 Flash API
-- **Backend:** Python (app.py), Java (app.java)
-- **Frontend:** JavaScript, Streamlit
-- **Libraries:** `google-generativeai`, `streamlit`
-
-### 🚀 How to Run
+1. Clone the repo
 ```bash
-# Clone the repository
-git clone https://github.com/monishasaravanan052007-art/FitBuddy.git
+git clone https://github.com/shanjitha2007sha-beep/FitBuddy.git
 cd FitBuddy
+🚀 Live Demo
+Try FitBuddy AI Fitness Plan Generator here:
 
-# Install dependencies
-pip install -r requirements.txt
+https://fitbuddy-o41t.onrender.com
 
-# Add your Gemini API Key in app.py
-GEMINI_API_KEY = "YOUR_API_KEY"
+📝 Design & Notes
+FitBuddy is an AI-powered fitness plan generator that helps users create personalized fitness plans.
 
-# Run the app
-streamlit run app.py
+Replit Project: https://replit.com/@shanjitha2007sh/FitBuddy
+
+
+
